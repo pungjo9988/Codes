@@ -1,4 +1,5 @@
 import sys
+
 n, m, b = map(int, sys.stdin.readline().split())
 result = [sys.maxsize, 0]
 table = []
